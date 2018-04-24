@@ -30,7 +30,7 @@ You, of course, own the copyright to your work. Thus, it’s up to you whether y
 [http://www.add-link-to-your-project-here.com](http://www.add-link-to-your-project-here.com)
 
 ### Description
-Your description goes here.
+Your description goes here. 
 
 ## Rules
 * **Do not** add or remove any files to this repo.
